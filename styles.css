@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Inter';
-    src: url(/fonts/InterVariable.ttf) format('truetype');
+    src: url(fonts/InterVariable.ttf) format('truetype');
     font-weight: 100 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Inter-italic';
-    src: url('/fonts/InterVariableItalic.ttf') format('truetype');
+    src: url('fonts/InterVariableItalic.ttf') format('truetype');
     font-weight: 100 900;
     font-style: italic;
 }
@@ -170,53 +170,53 @@ h1, h2, h3, h4, h5, h6 {
 
 /**Sidebar icons**/
 .sidebar .large-Dashboard::before {
-  background-image: url('/icons/lightning.svg');
+  background-image: url('icons/lightning.svg');
   filter: brightness(0) invert(1);
 }
 .sidebar #top-sidebar li:nth-child(1)::before {
-  background-image: url('/icons/home-variant.svg');
+  background-image: url('icons/home-variant.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #top-sidebar li:nth-child(2)::before {
-  background-image: url('/icons/account.svg');
+  background-image: url('icons/account.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #top-sidebar li:nth-child(3)::before {
-  background-image: url('/icons/message.svg');
+  background-image: url('icons/message.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #top-sidebar li:nth-child(4)::before {
-  background-image: url('/icons/history.svg');
+  background-image: url('icons/history.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #top-sidebar li:nth-child(5)::before {
-  background-image: url('/icons/file-multiple.svg');
+  background-image: url('icons/file-multiple.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #top-sidebar li:nth-child(6)::before {
-  background-image: url('/icons/account-group.svg');
+  background-image: url('icons/account-group.svg');
   filter: brightness(0) invert(1);
 }
 
 
 /*Bottom of sidebar*/
 .sidebar #bottom-sidebar li:nth-child(1)::before {
-  background-image: url('/icons/cog.svg');
+  background-image: url('icons/cog.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #bottom-sidebar li:nth-child(2)::before {
-  background-image: url('/icons/help.svg');
+  background-image: url('icons/help.svg');
   filter: brightness(0) invert(1);
 }
 
 .sidebar #bottom-sidebar li:nth-child(3)::before {
-  background-image: url('/icons/shield-check.svg');
+  background-image: url('icons/shield-check.svg');
   filter: brightness(0) invert(1);
 }
 
